@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Alcan</h1>
-<h3 align="center">A passionate python developer from Turkey</h3>
+<h3 align="center">A passionate python and hardware design developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **alialcan122@gmail.com**
 
